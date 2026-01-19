@@ -1,4 +1,4 @@
-# newp_escape 🎮🔐
+# NewProject Escape Game 🎮🔐
 
 > Escape Room mobil játék - Verseny projekt csapatmunkában
 
