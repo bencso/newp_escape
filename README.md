@@ -39,13 +39,13 @@ A projekt során gyakoroltuk:
 - Játéklogika implementálása
 - Mobilplatform-specifikus fejlesztés
 
-## 🤝 Közreműködés
+## 📄 Licensz
 
-Ez egy lezárt verseny projekt.
+MIT License - Szabadon használható és módosítható
 
 ---
 
-**Státusz:** ✅ Befejezett (Verseny projekt)
+**Státusz:** ✅ Befejezett
 
 ---
 
