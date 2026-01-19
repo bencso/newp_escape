@@ -30,10 +30,6 @@ Ez egy escape room (szabadulószoba) típusú mobil játék, amelyet csapatunk k
 
 - Mobile Game Development
 
-## 🏆 Verseny projekt
-
-Ez egy csapatverseny (PenDroid) keretében készült projekt volt, amelyben escape room játékot kellett fejlesztenünk mobilplatformra. Ez volt az első alkalom, hogy mobil játékfejlesztésbe vágtunk bele csapatként.
-
 ## 🎓 Tanulási célok
 
 A projekt során gyakoroltuk:
