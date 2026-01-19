@@ -12,7 +12,7 @@ Ez egy escape room (szabadulószoba) típusú mobil játék, amelyet csapatunk k
 
 - **Bábolnai Bence** - [GitHub](https://github.com/bencso)
 - **Katona Roland** - [GitHub](https://github.com/katroland)
-- **Gyurkovics Dominik Ádám** - [GitHub](https://github.com/gydoma)
+- **Gyurkovics Dominik** - [GitHub](https://github.com/gydoma)
 - **Horváth Péter** - [GitHub](https://github.com/Trixep)
 
 ## ✨ Funkciók
