@@ -6,6 +6,10 @@
 
 Ez egy escape room (szabadulószoba) típusú mobil játék, amelyet csapatunk készített egy versenyre. Ez volt az első mobil játékfejlesztési feladatunk, ahol szabadulószoba mechanikákat kellett implementálnunk mobilra optimalizálva.
 
+## 🏆 Eredmény
+
+**3. helyezés** - [PenDroid 2025 döntő](https://pendroid.uni-pannon.hu/verseny/hirek?view=article&id=219:veget-ert-a-pendroid-2025-os-dontoje&catid=48)
+
 ## 👥 Csapattagok
 
 **Csapatnév:** new_project
@@ -38,10 +42,6 @@ A projekt során gyakoroltuk:
 - Escape room mechanikák tervezése
 - Játéklogika implementálása
 - Mobilplatform-specifikus fejlesztés
-
-## 📄 Licensz
-
-MIT License - Szabadon használható és módosítható
 
 ---
 
