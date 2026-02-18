@@ -53,5 +53,3 @@ Ez volt az első mobil játékfejlesztési projektünk, ahol egy escape room já
 
 **⭐ Ha tetszik a projekt, örülök egy csillagnak!**
 ***
-
-Kész! Mehet a GitHub-ra. Folytassuk a következővel? 🚀
